@@ -1,0 +1,28 @@
+[2023-03-04T15:59:38.059+0100] {processor.py:154} INFO - Started process (PID=64182) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T15:59:38.063+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-04T15:59:38.064+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:38.064+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T15:59:38.119+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T15:59:38.273+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:38.273+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T15:59:38.290+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:38.290+0100] {dag.py:3336} INFO - Setting next_dagrun for example_sla_dag to 2023-03-04T14:56:00+00:00, run_after=2023-03-04T14:58:00+00:00
+[2023-03-04T15:59:38.305+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.246 seconds
+[2023-03-04T16:00:56.522+0100] {processor.py:154} INFO - Started process (PID=64237) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T16:00:56.527+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-04T16:00:56.527+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:56.527+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T16:00:56.586+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T16:00:56.747+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:56.747+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:00:56.767+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:56.767+0100] {dag.py:3336} INFO - Setting next_dagrun for example_sla_dag to 2023-03-04T14:58:00+00:00, run_after=2023-03-04T15:00:00+00:00
+[2023-03-04T16:00:56.784+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.263 seconds
+[2023-03-04T16:02:28.738+0100] {processor.py:154} INFO - Started process (PID=64301) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T16:02:28.743+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-04T16:02:28.743+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:28.743+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T16:02:28.796+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T16:02:28.954+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:28.954+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:02:28.972+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:28.971+0100] {dag.py:3336} INFO - Setting next_dagrun for example_sla_dag to 2023-03-04T15:00:00+00:00, run_after=2023-03-04T15:02:00+00:00
+[2023-03-04T16:02:28.987+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.250 seconds
+[2023-03-04T16:04:00.063+0100] {processor.py:154} INFO - Started process (PID=64375) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T16:04:00.068+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-04T16:04:00.068+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:04:00.068+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T16:04:00.122+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-04T16:04:00.271+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:04:00.270+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:04:00.285+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:04:00.285+0100] {dag.py:3336} INFO - Setting next_dagrun for example_sla_dag to 2023-03-04T15:02:00+00:00, run_after=2023-03-04T15:04:00+00:00
+[2023-03-04T16:04:00.302+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.240 seconds

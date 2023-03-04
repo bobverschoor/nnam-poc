@@ -1,0 +1,35 @@
+[2023-03-04T15:59:10.791+0100] {processor.py:154} INFO - Started process (PID=64135) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T15:59:10.796+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-03-04T15:59:10.796+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:10.796+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T15:59:10.808+0100] {processor.py:768} WARNING - No viable dags retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T15:59:10.926+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.136 seconds
+[2023-03-04T16:00:29.455+0100] {processor.py:154} INFO - Started process (PID=64219) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:00:29.461+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-03-04T16:00:29.462+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:29.462+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:00:29.477+0100] {processor.py:768} WARNING - No viable dags retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:00:29.594+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.139 seconds
+[2023-03-04T16:01:15.636+0100] {processor.py:154} INFO - Started process (PID=64248) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:01:15.641+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-03-04T16:01:15.641+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:15.641+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:01:15.656+0100] {processor.py:768} WARNING - No viable dags retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:01:15.837+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.201 seconds
+[2023-03-04T16:02:02.210+0100] {processor.py:154} INFO - Started process (PID=64286) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:02:02.216+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-03-04T16:02:02.217+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:02.216+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:02:02.233+0100] {processor.py:768} WARNING - No viable dags retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:02:02.369+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.159 seconds
+[2023-03-04T16:02:48.791+0100] {processor.py:154} INFO - Started process (PID=64311) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:02:48.797+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-03-04T16:02:48.797+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:48.797+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:02:48.811+0100] {processor.py:768} WARNING - No viable dags retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:02:48.931+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.140 seconds
+[2023-03-04T16:03:35.236+0100] {processor.py:154} INFO - Started process (PID=64359) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:03:35.241+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-03-04T16:03:35.241+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:35.241+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:03:35.256+0100] {processor.py:768} WARNING - No viable dags retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:03:35.377+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.142 seconds
+[2023-03-04T16:04:20.139+0100] {processor.py:154} INFO - Started process (PID=64391) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:04:20.143+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-03-04T16:04:20.144+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:04:20.143+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:04:20.155+0100] {processor.py:768} WARNING - No viable dags retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-03-04T16:04:20.268+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.129 seconds

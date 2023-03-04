@@ -1,0 +1,21 @@
+[2023-03-04T16:00:25.581+0100] {processor.py:154} INFO - Started process (PID=64214) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-03-04T16:00:25.588+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-03-04T16:00:25.588+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:25.588+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-03-04T16:00:25.694+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-03-04T16:00:25.856+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:25.856+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:00:25.873+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:25.873+0100] {dag.py:3336} INFO - Setting next_dagrun for example_bash_operator to 2023-03-03T00:00:00+00:00, run_after=2023-03-04T00:00:00+00:00
+[2023-03-04T16:00:25.890+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.310 seconds
+[2023-03-04T16:01:58.278+0100] {processor.py:154} INFO - Started process (PID=64270) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-03-04T16:01:58.284+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-03-04T16:01:58.285+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:58.285+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-03-04T16:01:58.377+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-03-04T16:01:58.557+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:58.556+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:01:58.577+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:58.577+0100] {dag.py:3336} INFO - Setting next_dagrun for example_bash_operator to 2023-03-03T00:00:00+00:00, run_after=2023-03-04T00:00:00+00:00
+[2023-03-04T16:01:58.594+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.317 seconds
+[2023-03-04T16:03:31.371+0100] {processor.py:154} INFO - Started process (PID=64355) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-03-04T16:03:31.378+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-03-04T16:03:31.378+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:31.378+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-03-04T16:03:31.457+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-03-04T16:03:31.590+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:31.590+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:03:31.604+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:31.604+0100] {dag.py:3336} INFO - Setting next_dagrun for example_bash_operator to 2023-03-03T00:00:00+00:00, run_after=2023-03-04T00:00:00+00:00
+[2023-03-04T16:03:31.620+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.249 seconds

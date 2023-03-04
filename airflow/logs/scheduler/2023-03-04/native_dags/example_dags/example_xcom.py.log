@@ -1,0 +1,42 @@
+[2023-03-04T15:59:22.208+0100] {processor.py:154} INFO - Started process (PID=64149) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T15:59:22.212+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-03-04T15:59:22.213+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:22.213+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T15:59:22.273+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T15:59:22.307+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:22.307+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T15:59:22.403+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:22.403+0100] {dag.py:3336} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-03-04T15:59:22.421+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.214 seconds
+[2023-03-04T16:00:41.792+0100] {processor.py:154} INFO - Started process (PID=64229) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:00:41.797+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-03-04T16:00:41.798+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:41.798+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:00:41.861+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:00:42.030+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:42.030+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:00:42.044+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:42.044+0100] {dag.py:3336} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-03-04T16:00:42.060+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.268 seconds
+[2023-03-04T16:01:28.008+0100] {processor.py:154} INFO - Started process (PID=64255) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:01:28.013+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-03-04T16:01:28.013+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:28.013+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:01:28.070+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:01:28.235+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:28.235+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:01:28.253+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:28.253+0100] {dag.py:3336} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-03-04T16:01:28.271+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.264 seconds
+[2023-03-04T16:02:14.492+0100] {processor.py:154} INFO - Started process (PID=64293) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:02:14.497+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-03-04T16:02:14.499+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:14.499+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:02:14.553+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:02:14.713+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:14.713+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:02:14.728+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:14.728+0100] {dag.py:3336} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-03-04T16:02:14.745+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.254 seconds
+[2023-03-04T16:03:00.442+0100] {processor.py:154} INFO - Started process (PID=64331) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:03:00.450+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-03-04T16:03:00.450+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:00.450+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:03:00.524+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:03:00.695+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:00.695+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:03:00.713+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:00.713+0100] {dag.py:3336} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-03-04T16:03:00.733+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.293 seconds
+[2023-03-04T16:03:46.693+0100] {processor.py:154} INFO - Started process (PID=64365) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:03:46.698+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-03-04T16:03:46.699+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:46.699+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:03:46.756+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-03-04T16:03:46.904+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:46.904+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:03:46.917+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:46.917+0100] {dag.py:3336} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-03-04T16:03:46.931+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.238 seconds

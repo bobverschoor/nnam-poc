@@ -1,0 +1,49 @@
+[2023-03-04T15:59:14.810+0100] {processor.py:154} INFO - Started process (PID=64142) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T15:59:14.815+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-03-04T15:59:14.815+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:14.815+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T15:59:14.861+0100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T15:59:14.891+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:14.891+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T15:59:14.977+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:14.977+0100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-03-04T15:59:14.993+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.183 seconds
+[2023-03-04T16:00:33.440+0100] {processor.py:154} INFO - Started process (PID=64221) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:00:33.445+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-03-04T16:00:33.446+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:33.445+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:00:33.521+0100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:00:33.689+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:33.689+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:00:33.704+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:33.704+0100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-03-04T16:00:33.718+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.279 seconds
+[2023-03-04T16:01:19.906+0100] {processor.py:154} INFO - Started process (PID=64251) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:01:19.911+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-03-04T16:01:19.912+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:19.911+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:01:19.963+0100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:01:20.119+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:20.119+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:01:20.131+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:20.131+0100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-03-04T16:01:20.145+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.240 seconds
+[2023-03-04T16:02:06.219+0100] {processor.py:154} INFO - Started process (PID=64288) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:02:06.225+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-03-04T16:02:06.225+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:06.225+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:02:06.294+0100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:02:06.464+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:06.464+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:02:06.478+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:06.478+0100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-03-04T16:02:06.494+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.276 seconds
+[2023-03-04T16:02:52.070+0100] {processor.py:154} INFO - Started process (PID=64315) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:02:52.074+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-03-04T16:02:52.075+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:52.075+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:02:52.126+0100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:02:52.280+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:52.280+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:02:52.294+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:52.294+0100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-03-04T16:02:52.308+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.239 seconds
+[2023-03-04T16:03:38.376+0100] {processor.py:154} INFO - Started process (PID=64361) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:03:38.382+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-03-04T16:03:38.382+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:38.382+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:03:38.438+0100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:03:38.588+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:38.588+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:03:38.600+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:38.600+0100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-03-04T16:03:38.614+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.238 seconds
+[2023-03-04T16:04:25.145+0100] {processor.py:154} INFO - Started process (PID=64393) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:04:25.151+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-03-04T16:04:25.152+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:04:25.152+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:04:25.222+0100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-03-04T16:04:25.459+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:04:25.459+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:04:25.481+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:04:25.481+0100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-03-04T16:04:25.501+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.357 seconds

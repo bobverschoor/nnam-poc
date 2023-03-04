@@ -1,0 +1,21 @@
+[2023-03-04T15:59:56.448+0100] {processor.py:154} INFO - Started process (PID=64192) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-03-04T15:59:56.453+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-03-04T15:59:56.453+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:56.453+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-03-04T15:59:56.484+0100] {processor.py:766} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-03-04T15:59:56.654+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:56.654+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T15:59:56.668+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:56.668+0100] {dag.py:3336} INFO - Setting next_dagrun for latest_only to 2023-03-04T10:59:56.668473+00:00, run_after=2023-03-04T14:59:56.668473+00:00
+[2023-03-04T15:59:56.684+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.237 seconds
+[2023-03-04T16:01:30.266+0100] {processor.py:154} INFO - Started process (PID=64257) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-03-04T16:01:30.272+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-03-04T16:01:30.272+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:30.272+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-03-04T16:01:30.311+0100] {processor.py:766} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-03-04T16:01:30.489+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:30.489+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:01:30.505+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:01:30.504+0100] {dag.py:3336} INFO - Setting next_dagrun for latest_only to 2023-03-04T11:01:30.504873+00:00, run_after=2023-03-04T15:01:30.504873+00:00
+[2023-03-04T16:01:30.522+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.257 seconds
+[2023-03-04T16:03:02.708+0100] {processor.py:154} INFO - Started process (PID=64332) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-03-04T16:03:02.714+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-03-04T16:03:02.714+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:02.714+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-03-04T16:03:02.748+0100] {processor.py:766} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-03-04T16:03:02.934+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:02.933+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:03:02.948+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:03:02.948+0100] {dag.py:3336} INFO - Setting next_dagrun for latest_only to 2023-03-04T11:03:02.948651+00:00, run_after=2023-03-04T15:03:02.948651+00:00
+[2023-03-04T16:03:02.964+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.257 seconds

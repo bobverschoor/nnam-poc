@@ -1,0 +1,28 @@
+[2023-03-04T15:59:40.252+0100] {processor.py:154} INFO - Started process (PID=64183) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T15:59:40.257+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-04T15:59:40.257+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:40.257+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T15:59:40.288+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T15:59:40.470+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:40.470+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T15:59:40.486+0100] {logging_mixin.py:137} INFO - [2023-03-04T15:59:40.486+0100] {dag.py:3336} INFO - Setting next_dagrun for example_skip_dag to 2023-03-03T14:59:40.485888+00:00, run_after=2023-03-04T14:59:40.485888+00:00
+[2023-03-04T15:59:40.503+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.251 seconds
+[2023-03-04T16:00:58.018+0100] {processor.py:154} INFO - Started process (PID=64238) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T16:00:58.024+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-04T16:00:58.024+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:58.024+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T16:00:58.056+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T16:00:58.284+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:58.283+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:00:58.303+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:00:58.302+0100] {dag.py:3336} INFO - Setting next_dagrun for example_skip_dag to 2023-03-03T15:00:58.302647+00:00, run_after=2023-03-04T15:00:58.302647+00:00
+[2023-03-04T16:00:58.321+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.304 seconds
+[2023-03-04T16:02:30.534+0100] {processor.py:154} INFO - Started process (PID=64302) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T16:02:30.539+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-04T16:02:30.539+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:30.539+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T16:02:30.569+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T16:02:30.758+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:30.758+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:02:30.775+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:02:30.775+0100] {dag.py:3336} INFO - Setting next_dagrun for example_skip_dag to 2023-03-03T15:02:30.775035+00:00, run_after=2023-03-04T15:02:30.775035+00:00
+[2023-03-04T16:02:30.792+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.259 seconds
+[2023-03-04T16:04:02.183+0100] {processor.py:154} INFO - Started process (PID=64376) to work on /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T16:04:02.188+0100] {processor.py:756} INFO - Processing file /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-04T16:04:02.188+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:04:02.188+0100] {dagbag.py:537} INFO - Filling up the DagBag from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T16:04:02.215+0100] {processor.py:766} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-04T16:04:02.380+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:04:02.379+0100] {dag.py:2585} INFO - Sync 1 DAGs
+[2023-03-04T16:04:02.392+0100] {logging_mixin.py:137} INFO - [2023-03-04T16:04:02.391+0100] {dag.py:3336} INFO - Setting next_dagrun for example_skip_dag to 2023-03-03T15:04:02.391850+00:00, run_after=2023-03-04T15:04:02.391850+00:00
+[2023-03-04T16:04:02.409+0100] {processor.py:176} INFO - Processing /Users/uab910/dev/nnam-poc/pyenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.227 seconds
