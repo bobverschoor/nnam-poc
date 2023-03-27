@@ -16,7 +16,8 @@ def collect_invoeding():
 
 
 with DAG(
-        "NNAM_app", schedule="@daily", catchup=False, start_date=pendulum.datetime(2023, 1, 1, tz="UTC")
+        "NNAM_app", schedule="@daily", catchup=False, start_date=pendulum.datetime(2023, 1, 1, tz="UTC"),
+        render_template_as_native_obj=True
 ) as dag:
 
     invoeding = collect_invoeding()

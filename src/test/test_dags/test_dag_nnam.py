@@ -1,6 +1,7 @@
 import unittest
 from airflow.models import DagBag
 
+
 class TestNNAM_DAG(unittest.TestCase):
     def test_dag_loaded(self):
         dagbag = DagBag()
